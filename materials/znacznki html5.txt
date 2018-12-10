@@ -1,0 +1,19 @@
+Rozpoczęcie dokumentu HTML -> html:5<tab>
+
+SEKCJA HEAD
+<meta name="description" content="">
+
+link:css<tab
+
+h1 - h6 -> nagłówki
+p -> paragraf (100% szerokości)
+div -> blok
+span -> (zajmuje tyle miejsca ile potrzebuje)
+
+element:
+    - blokowy -> zajmuje 100% szerokości
+    - liniowy -> zajmuje tyle miejsca ile potrzebuje
+
+b lub strong -> pogrubienie
+i lub em -> podkreślenie
+s -> przekreślenie
