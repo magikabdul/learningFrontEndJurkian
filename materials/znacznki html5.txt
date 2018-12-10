@@ -17,3 +17,9 @@ element:
 b lub strong -> pogrubienie
 i lub em -> podkreślenie
 s -> przekreślenie
+
+LISTY
+ul -> lista nieuprządkowana
+ol -> lista uporządkowana
+
+li -> element listy 
