@@ -52,4 +52,7 @@ KLASY I ID
             -> o danej nazwie może być na stronie tylko jeden raz
         - class
             -> można wielokrotnie wykorzystać na stronie
-            
+
+KOMENTARZE
+    <!-- -->
+
