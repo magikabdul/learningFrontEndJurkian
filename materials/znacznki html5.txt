@@ -64,3 +64,32 @@ TABELE
     <tr>
         <td> </td> - komórka tabeli
     </tr>
+
+FOLMULARZE
+    <form>
+        - action -> gdzie chcemy przesłać formularz
+        - method -> sposób wysłania
+
+    <input type="" value=""> 
+        - type="":
+            a. submit (przycisk potwierdzenia)
+            b. text (pole testowe)
+            c. password
+            d. email
+            e. chceckbox (z atrybutem 'chcecked' jest automatycznie zaznaczony)
+            f. radio
+            g. select może mieć atrybut mulltiple, wewnątrz '<option value="">'
+            h. hidden
+        - name="" (opis pola)
+        - value="" (domyślna wartość)
+        - readonly (pole tylko do edycji)
+        - diabled (pole nieaktywne)
+
+    <label> ułatwia wskazywanie na pole
+
+    <button>
+        type=""
+            a. button
+            b. submit
+
+    <textarea>
