@@ -28,7 +28,6 @@ OBRAZKI (pixabay.com, lorempicsum.com, dymmyimage.com, placehold.it)
     img<tab>
         - src - źródło obrazka 
             a. adres https
-            b. okalizacja w katalogu
-            c. lokalizacja na danej stronie
-    src - tekst alternatywny pojawia się gdy obrazek się nie ładuje
+            b. lokalizacja w katalogu
+        - alt - tekst alternatywny pojawia się gdy obrazek się nie ładuje
 
