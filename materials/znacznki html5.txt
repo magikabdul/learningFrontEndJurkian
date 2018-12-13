@@ -31,3 +31,17 @@ OBRAZKI (pixabay.com, lorempicsum.com, dymmyimage.com, placehold.it)
             b. lokalizacja w katalogu
         - alt - tekst alternatywny pojawia się gdy obrazek się nie ładuje
 
+ODNOŚNIKI
+    a<tab>
+        - href 
+            -> nazwa strony zapisanej lokalnie
+            -> adres strony (pełny link)
+            -> adres mail (mailto:)
+            -> pozycja na danej stronie (do konkretnego id #<nazwa id>)
+        - title 
+            opis linku pojawijący się po najechaniu na niego kursorem
+        - target
+            sposób otwarcia linku
+                -> _target - w nowej zakładce
+
+    Obrazek może być odnośnikiem. 
