@@ -56,3 +56,11 @@ KLASY I ID
 KOMENTARZE
     <!-- -->
 
+TABELE
+    <tr> wiersz tabeli
+        <th> </th> - nagłówek tabeli
+    </tr>
+
+    <tr>
+        <td> </td> - komórka tabeli
+    </tr>
