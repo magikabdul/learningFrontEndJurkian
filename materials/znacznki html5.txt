@@ -45,3 +45,11 @@ ODNOŚNIKI
                 -> _target - w nowej zakładce
 
     Obrazek może być odnośnikiem. 
+
+KLASY I ID 
+    pozwalają na identyfikowanie elementów na stronie
+        - id 
+            -> o danej nazwie może być na stronie tylko jeden raz
+        - class
+            -> można wielokrotnie wykorzystać na stronie
+            
