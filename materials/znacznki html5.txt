@@ -80,6 +80,7 @@ FOLMULARZE
             f. radio
             g. select może mieć atrybut mulltiple, wewnątrz '<option value="">'
             h. hidden
+            i. color, date, month, number, range, time
         - name="" (opis pola)
         - value="" (domyślna wartość)
         - readonly (pole tylko do edycji)
@@ -93,3 +94,44 @@ FOLMULARZE
             b. submit
 
     <textarea>
+
+SPECJALNE ZNACZNIKI
+    - main (może być użyty tylko raz, główna treść na stronie)
+    - nav
+    - header
+    - footer
+    - figure (znaczące cześć strony)
+    - article
+
+    <body>
+        <header>
+            <section>
+                LOGO
+            </section>
+            <nav>
+                MENU
+            </nav>
+        </header>
+
+        <article>
+            <header>
+            </header>
+
+            <p>
+            </p>
+
+            <footer>
+            </footer>
+        </article>
+
+        <footer>
+        </footer>
+    </body>
+
+    article - książka
+        header
+        section - rozdział
+            header
+            p
+            footer
+        footer
